@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\MainWindow.o
+./release\AlbumListWidget.o
+./release\AlbumWidget.o
+./release\PictureDelegate.o
+./release\PictureWidget.o
+./release\GalleryWidget.o
+./release\ThumbnailProxyModel.o
+./release\qrc_resource.o
+./release\moc_MainWindow.o
+./release\moc_AlbumListWidget.o
+./release\moc_AlbumWidget.o
+./release\moc_PictureDelegate.o
+./release\moc_PictureWidget.o
+./release\moc_GalleryWidget.o
+);

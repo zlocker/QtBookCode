@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\MainWindow.o
+./debug\AlbumListWidget.o
+./debug\AlbumWidget.o
+./debug\PictureDelegate.o
+./debug\PictureWidget.o
+./debug\GalleryWidget.o
+./debug\ThumbnailProxyModel.o
+./debug\qrc_resource.o
+./debug\moc_MainWindow.o
+./debug\moc_AlbumListWidget.o
+./debug\moc_AlbumWidget.o
+./debug\moc_PictureDelegate.o
+./debug\moc_PictureWidget.o
+./debug\moc_GalleryWidget.o
+);

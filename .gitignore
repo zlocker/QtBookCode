@@ -1,0 +1,5 @@
+#Debug/Relaese文件夹
+Debug
+Release
+#.pro文件
+*.pro
